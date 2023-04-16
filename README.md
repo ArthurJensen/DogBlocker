@@ -61,7 +61,6 @@ HTML
 
 CSS
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Getting Started
@@ -77,77 +76,9 @@ Make sure to read carefully to avoid any errors.
 2. Now unzip the file, using any software you prefer. In the screenshot below, I used [7-zip](https://7-zip.org) to unzip the file.
 ![2](https://i.imgur.com/93GYoCm.png)
 
-3. Now you'll have a folder called "FastForward_chromium". Enter it and extract (again) the file.
+3. Go to the chrome offical extenstions page by searching up chrome://extensions.
 
-You can do this either using 7-zip:
-![3-1](https://i.imgur.com/sQGRJXq.gif)
-
-
-Or renaming the file extension, like on the gif below:
-![3-2](https://i.imgur.com/JkhCV4q.gif)
-
-
-4. Open the extensions page on your browser (type `chrome://extensions/` on the address bar) and turn on "Developer Mode", like in the image below.
-![4](https://i.imgur.com/R1E7LlO.png)
-
-
-5. Now click on "Load unpacked", and select the folder where Fast Forward was extracted.
-![5](https://i.imgur.com/FFQGC2F.gif)
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+4. Select the unpacked button and select the folder that you extracted. 
 
 
 
