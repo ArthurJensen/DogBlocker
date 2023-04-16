@@ -66,36 +66,33 @@ CSS
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Chrome, Chromium, Kiwi, Opera, Opera GX, Vivaldi, Brave etc.
+Make sure to read carefully to avoid any errors.
 
-### Prerequisites
+0. **REMOVE any previous versions of FastForward.**
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+1. Download the extension using [this link](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip). You'll end with a .zip file on your downloads, like on the screenshot below:
+![1](https://i.imgur.com/Nrdgd7R.png)
 
-### Installation
+2. Now unzip the file, using any software you prefer. In the screenshot below, I used [7-zip](https://7-zip.org) to unzip the file.
+![2](https://i.imgur.com/93GYoCm.png)
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+3. Now you'll have a folder called "FastForward_chromium". Enter it and extract (again) the file.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+You can do this either using 7-zip:
+![3-1](https://i.imgur.com/sQGRJXq.gif)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+Or renaming the file extension, like on the gif below:
+![3-2](https://i.imgur.com/JkhCV4q.gif)
+
+
+4. Open the extensions page on your browser (type `chrome://extensions/` on the address bar) and turn on "Developer Mode", like in the image below.
+![4](https://i.imgur.com/R1E7LlO.png)
+
+
+5. Now click on "Load unpacked", and select the folder where Fast Forward was extracted.
+![5](https://i.imgur.com/FFQGC2F.gif)
 
 
 
