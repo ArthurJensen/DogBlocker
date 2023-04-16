@@ -85,7 +85,7 @@ Make sure to read carefully to avoid any errors.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - arthurjensen12x@gmail.com
+Arthur Jensen - arthurjensen12x@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
