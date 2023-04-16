@@ -69,9 +69,9 @@ CSS
 ### Chrome, Chromium, Kiwi, Opera, Opera GX, Vivaldi, Brave etc.
 Make sure to read carefully to avoid any errors.
 
-0. **REMOVE any previous versions of FastForward.**
+0. **REMOVE any previous versions of Dog Blocker.**
 
-1. Download the extension using [this link](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip). You'll end with a .zip file on your downloads, like on the screenshot below:
+1. Download the extension using [this link](https://arthurjensen.info/DogBlocker.zip). You'll end with a .zip file on your downloads, like on the screenshot below:
 ![1](https://i.imgur.com/Nrdgd7R.png)
 
 2. Now unzip the file, using any software you prefer. In the screenshot below, I used [7-zip](https://7-zip.org) to unzip the file.
