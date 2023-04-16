@@ -33,7 +33,7 @@
   <h3 align="center">Dog Blocker Extension</h3>
 
   <p align="center">
-An extension made with love from Canada
+An extension made with love from Canada ❤️
     <br />
     <br />
     <br />
